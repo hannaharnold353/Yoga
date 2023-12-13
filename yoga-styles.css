@@ -1,0 +1,77 @@
+body{
+    
+    background-color: rgb(151, 30, 30);
+    background-size: cover;
+    margin-bottom: 50px;
+}
+h1{
+    position: relative;
+    top: 10px;
+    margin: auto;
+    color: whitesmoke;
+    font-family: arial;
+    text-align: center; 
+    background-color: rgb(132, 208, 132);
+    font-size: 300%;
+    padding: 5px;
+    width: 35%;
+    border: solid white;
+    border-width: 5px;
+    padding: 10px;
+}
+.header{
+    position: absolute;
+    top: 0px;
+    display: block;
+    margin: auto;
+    color: whitesmoke;
+    font-family: arial;
+    text-align: center;
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(132, 208, 132);
+    margin-top: 100px;
+    color: white;
+}
+.mainstuff {
+    position: absolute;
+    top: 125px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    
+}
+.tableau{
+    position: relative;
+    width: 50%;
+    top: 450px;
+    bottom: 300px;
+    border: solid white;
+    border-width: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+.vid{
+    position: relative;
+    width: 35%;
+    top: 450px;
+    border: solid white;
+    border-width: 5px;
+    padding: 10px;
+}
+.references{
+    position: relative;
+    text-align: center;
+    margin-top: 225px;
+    font-family: arial;
+    color: white;
+    font-weight: bold;
+}
+a:visited{
+    color:white;
+}
